@@ -1,0 +1,14 @@
+.h22{
+    text-shadow: 1px 1px 3px #666666;
+}
+
+.paragraph{
+    font-size: 20px;
+}
+.colour{
+    color: rgb(101, 174, 187);
+}
+
+.cards{
+    display: -moz-inline-grid;;
+}
